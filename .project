@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>WebsitePagination</name>
-	<comment></comment>
+	<comment>It is a website for storing pages of your own book.</comment>
 	<projects>
 	</projects>
 	<buildSpec>
